@@ -1,0 +1,15 @@
+html { height: 100%;}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #174f3a;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
