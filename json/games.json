@@ -1,2744 +1,2228 @@
 [
-    {
-        "tournament": {
-            "name": "UEFA Conference League, Qualification",
-            "slug": "uefa-europa-conference-league-qualification",
-            "category": {
-                "name": "Europe",
-                "slug": "europe",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 1465,
-                "country": {},
-                "flag": "europe",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "أوروبا",
-                        "hi": "यूरोप",
-                        "bn": "ইউরোপ"
-                    },
-                    "shortNameTranslation": {}
-                }
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
             },
-            "uniqueTournament": {
-                "name": "UEFA Conference League",
-                "slug": "uefa-europa-conference-league",
-                "secondaryColorHex": "#04be15",
-                "category": {
-                    "name": "Europe",
-                    "slug": "europe",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 1465,
-                    "country": {},
-                    "flag": "europe",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "أوروبا",
-                            "hi": "यूरोप",
-                            "bn": "ইউরোপ"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "userCount": 266592,
-                "hasPerformanceGraphFeature": false,
-                "id": 17015,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "دوري مؤتمرات الإتحاد الأوروبي",
-                        "hi": "यूईएफए कॉन्फ्रेंस लीग",
-                        "bn": "উয়েফা কনফারেন্স লীগ"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 648,
-            "isGroup": false,
-            "isLive": false,
-            "id": 93604,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "دوري المؤتمر الأوروبي، التصفيات",
-                    "hi": "यूईएफए कॉन्फ्रेंस लीग, क्वालिफिकेशन",
-                    "bn": "উয়েফা কনফারেন্স লীগ, কোয়ালিফিকেশন"
-                },
-                "shortNameTranslation": {}
-            }
+            "shortNameTranslation": {}
+          }
         },
-        "season": {
-            "name": "UEFA Conference League 25/26",
-            "year": "25/26",
-            "editor": false,
-            "id": 76960
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
         },
-        "roundInfo": {
-            "round": 3,
-            "name": "Qualification Round 3",
-            "slug": "qualification-round-3"
-        },
-        "customId": "lysiK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "Rosenborg BK",
-            "slug": "rosenborg-bk",
-            "shortName": "Rosenborg",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 33591,
-            "nameCode": "RBK",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1161,
-            "country": {
-                "alpha2": "NO",
-                "alpha3": "NOR",
-                "name": "Norway",
-                "slug": "norway",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "النرويج"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#374df5",
-                "secondary": "#374df5",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "روزنبورج",
-                    "ru": "Русенборг",
-                    "hi": "रोसेनबोर्ग बीके"
-                },
-                "shortNameTranslation": {
-                    "ar": "روزنبورغ",
-                    "hi": "रोज़ेनबोर्ग",
-                    "bn": "রোজেনবার্গ"
-                }
-            }
-        },
-        "homeScore": {
-            "aggregated": 0
-        },
-        "awayScore": {
-            "aggregated": 0
-        },
-        "time": {},
-        "changes": {
-            "changes": [
-                "homeScore.aggregated",
-                "awayScore.aggregated"
-            ],
-            "changeTimestamp": 1754629698
-        },
-        "hasGlobalHighlights": false,
-        "detailId": 4,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 14250677,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "hammarby-if-rosenborg-bk",
-        "previousLegEventId": 14250651,
-        "startTimestamp": 1755190800,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
+        "shortNameTranslation": {}
+      }
     },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 20
-        },
-        "customId": "iKsLK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "GAIS",
-            "slug": "gais-goteborg",
-            "shortName": "GAIS",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 14777,
-            "nameCode": "GAIS",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1786,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#00ff99",
-                "secondary": "#000000",
-                "text": "#000000"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "غيس",
-                    "ru": "ГАИС"
-                },
-                "shortNameTranslation": {
-                    "ar": "غيس"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "detailId": 1,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13295558,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "gais-goteborg-hammarby-if",
-        "startTimestamp": 1755441000,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
     },
-    {
-        "tournament": {
-            "name": "Svenska Cupen, Preliminary Round",
-            "slug": "svenska-cupen-preliminary-round",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Svenska Cupen",
-                "slug": "svenska-cupen",
-                "primaryColorHex": "#005293",
-                "secondaryColorHex": "#c69e00",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 3153,
-                "hasPerformanceGraphFeature": false,
-                "id": 80,
-                "country": {},
-                "hasEventPlayerStatistics": false,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "كأس السويد",
-                        "hi": "स्वेंस्का कपेन",
-                        "bn": "সুইডিশ কাপ"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 0,
-            "isGroup": false,
-            "isLive": false,
-            "id": 20509,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "كأس السويد، الدور التمهيدي",
-                    "hi": "स्वेन्स्का कपेन, प्रेलीमिनरी राउंड",
-                    "bn": "সভেনস্কা কুপেন, প্রিলিমিনারি রাউন্ড"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Svenska Cup 25/26",
-            "year": "25/26",
-            "editor": false,
-            "id": 75545
-        },
-        "roundInfo": {
-            "round": 2,
-            "name": "Round 2",
-            "slug": "round-2"
-        },
-        "customId": "iKsLmo",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Korsnäs IF FK",
-            "slug": "korsnas-if-fk",
-            "shortName": "Korsnäs",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 735,
-            "nameCode": "KOR",
-            "national": false,
-            "type": 0,
-            "id": 35636,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#374df5",
-                "secondary": "#374df5",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "كورسنيس إف إف كي",
-                    "ru": "Корснас ИФ ФК"
-                },
-                "shortNameTranslation": {
-                    "ar": "كورسنيس"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 14254943,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "korsnas-if-fk-hammarby-if",
-        "startTimestamp": 1755707400,
-        "finalResultOnly": false,
-        "feedLocked": false,
-        "isEditor": false
+    "roundInfo": {
+      "round": 20
     },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 21
-        },
-        "customId": "iKsTK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "IK Sirius",
-            "slug": "ik-sirius",
-            "shortName": "Sirius",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 11776,
-            "nameCode": "IKS",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1793,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#0066ff",
-                "secondary": "#000000",
-                "text": "#000000"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "إف كيه سيريوس",
-                    "ru": "ИК Сириус Фк",
-                    "hi": "आईके सीरियस"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "awayTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "detailId": 1,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13295597,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "ik-sirius-hammarby-if",
-        "startTimestamp": 1756036800,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
+    "customId": "iKsqK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
     },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
+    "homeTeam": {
+      "name": "Örgryte IS",
+      "slug": "orgryte-is",
+      "shortName": "Örgryte",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12756,
+      "nameCode": "ÖIS",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1766,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ff0000",
+        "secondary": "#ff0000",
+        "text": "#ff0000"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "أورغريتي آي إس",
+          "ru": "Эргрюте"
         },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 22
-        },
-        "customId": "iKsGK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "Östers IF",
-            "slug": "osters-if",
-            "shortName": "Öster",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 8480,
-            "nameCode": "ÖIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1781,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ff0000",
-                "secondary": "#3300ff",
-                "text": "#3300ff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "أوسترس إف",
-                    "ru": "Эстер"
-                },
-                "shortNameTranslation": {
-                    "ar": "أوستر"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "detailId": 1,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13295601,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "osters-if-hammarby-if",
-        "startTimestamp": 1756650600,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
+        "shortNameTranslation": {
+          "ar": "أورغريتي"
+        }
+      }
     },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
+    "awayTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
         },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 23
-        },
-        "customId": "iKsjK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Djurgårdens IF",
-            "slug": "djurgardens-if",
-            "shortName": "Djurgården",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 48229,
-            "nameCode": "DIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1759,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#33ccff",
-                "secondary": "#000099",
-                "text": "#000099"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "ديورغاردنس إف",
-                    "ru": "ФК Юргорден"
-                },
-                "shortNameTranslation": {
-                    "ar": "ديورغاردن",
-                    "hi": "जुर्गार्डेन",
-                    "bn": "জুর্গার্ডেনস"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13295609,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "djurgardens-if-hammarby-if",
-        "startTimestamp": 1757851200,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
     },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 24
-        },
-        "customId": "iKskK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "BK Häcken",
-            "slug": "bk-hacken",
-            "shortName": "Häcken",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 41700,
-            "nameCode": "BHC",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1760,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#000000",
-                "secondary": "#ffcc00",
-                "text": "#ffcc00"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "بي كيه هاكن",
-                    "ru": "Хеккен"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاكن",
-                    "hi": "हैकेन",
-                    "bn": "হ্যাকেন"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13295616,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "bk-hacken-hammarby-if",
-        "startTimestamp": 1758456000,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
     },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 25
-        },
-        "customId": "iKsrK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Halmstads BK",
-            "slug": "halmstads-bk",
-            "shortName": "Halmstad",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 9028,
-            "nameCode": "HBK",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1767,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#0066ff",
-                "secondary": "#0066ff",
-                "text": "#0066ff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هالمستادز بي كيه",
-                    "ru": "ФК Хальмстад"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "awayTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13295631,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "halmstads-bk-hammarby-if",
-        "startTimestamp": 1759060800,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
-    },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 26
-        },
-        "customId": "iKslK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "IFK Göteborg",
-            "slug": "ifk-goteborg",
-            "shortName": "Göteborg",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 19711,
-            "nameCode": "IGT",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1761,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#0000cc",
-                "text": "#0000cc"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "إف كيه يوتيبورغ",
-                    "ru": "ИФК Гётеборг"
-                },
-                "shortNameTranslation": {
-                    "ar": "يوتيبورغ",
-                    "hi": "गोटेबोर्ग",
-                    "bn": "গোটেবর্গ"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13292359,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "ifk-goteborg-hammarby-if",
-        "startTimestamp": 1759665600,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
-    },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 27
-        },
-        "customId": "iKsoK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "AIK",
-            "slug": "aik",
-            "shortName": "AIK",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 30308,
-            "nameCode": "AIK",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1764,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#000000",
-                "secondary": "#000000",
-                "text": "#000000"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "آيك",
-                    "ru": "АИК",
-                    "hi": "एआईके",
-                    "bn": "এআইকে"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13241323,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "aik-hammarby-if",
-        "startTimestamp": 1760868000,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
-    },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 28
-        },
-        "customId": "iKsRM",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Malmö FF",
-            "slug": "malmo-ff",
-            "shortName": "Malmö",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 144193,
-            "nameCode": "MFF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1892,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#0099ff",
-                "secondary": "#0099ff",
-                "text": "#0099ff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "مالمو إف إف",
-                    "ru": "Мальмё"
-                },
-                "shortNameTranslation": {
-                    "ar": "مالمو",
-                    "hi": "माल्मो",
-                    "bn": "মালমো"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13241322,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "malmo-ff-hammarby-if",
-        "startTimestamp": 1761472800,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
-    },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 29
-        },
-        "customId": "iKshL",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Degerfors IF",
-            "slug": "degerfors-if",
-            "shortName": "Degerfors",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 10225,
-            "nameCode": "DIF",
-            "national": false,
-            "type": 0,
-            "id": 1807,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#cc0000",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "ديجيرفورس اي اف",
-                    "ru": "Дегерфорс ИФ",
-                    "hi": "डीगरफोर्स आई एफ"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "awayTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13241326,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "degerfors-if-hammarby-if",
-        "startTimestamp": 1762081200,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
-    },
-    {
-        "tournament": {
-            "name": "Allsvenskan",
-            "slug": "allsvenskan",
-            "category": {
-                "name": "Sweden",
-                "slug": "sweden",
-                "sport": {
-                    "name": "Football",
-                    "slug": "football",
-                    "id": 1
-                },
-                "id": 9,
-                "country": {
-                    "alpha2": "SE",
-                    "alpha3": "SWE",
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "fieldTranslations": {
-                        "nameTranslation": {
-                            "ar": "السويد"
-                        },
-                        "shortNameTranslation": {}
-                    }
-                },
-                "flag": "sweden",
-                "alpha2": "SE"
-            },
-            "uniqueTournament": {
-                "name": "Allsvenskan",
-                "slug": "allsvenskan",
-                "primaryColorHex": "#d38509",
-                "secondaryColorHex": "#212759",
-                "category": {
-                    "name": "Sweden",
-                    "slug": "sweden",
-                    "sport": {
-                        "name": "Football",
-                        "slug": "football",
-                        "id": 1
-                    },
-                    "id": 9,
-                    "country": {
-                        "alpha2": "SE",
-                        "alpha3": "SWE",
-                        "name": "Sweden",
-                        "slug": "sweden",
-                        "fieldTranslations": {
-                            "nameTranslation": {
-                                "ar": "السويد"
-                            },
-                            "shortNameTranslation": {}
-                        }
-                    },
-                    "flag": "sweden",
-                    "alpha2": "SE"
-                },
-                "userCount": 28548,
-                "hasPerformanceGraphFeature": true,
-                "id": 40,
-                "country": {},
-                "hasEventPlayerStatistics": true,
-                "displayInverseHomeAwayTeams": false,
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "الدوري السويدي الممتاز",
-                        "hi": "ऑलस्वेन्स्कन",
-                        "bn": "অলসভেনস্কান"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "priority": 191,
-            "isGroup": false,
-            "isLive": false,
-            "id": 24,
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "الدوري السويدي الممتاز",
-                    "hi": "ऑलस्वेन्स्कन",
-                    "bn": "অলসভেনস্কান"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "season": {
-            "name": "Allsvenskan 2025",
-            "year": "2025",
-            "editor": false,
-            "id": 69956
-        },
-        "roundInfo": {
-            "round": 30
-        },
-        "customId": "iKsmK",
-        "status": {
-            "code": 0,
-            "description": "Not started",
-            "type": "notstarted"
-        },
-        "homeTeam": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 34538,
-            "nameCode": "HIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1758,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffffff",
-                "secondary": "#ffffff",
-                "text": "#ffffff"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "هاماربي إيف",
-                    "ru": "Хаммарбю ИФ",
-                    "hi": "हम्मर्बी आईऍफ़"
-                },
-                "shortNameTranslation": {
-                    "ar": "هاماربي",
-                    "hi": "हम्मार्बी",
-                    "bn": "হ্যামারবি"
-                }
-            }
-        },
-        "awayTeam": {
-            "name": "IF Elfsborg",
-            "slug": "if-elfsborg",
-            "shortName": "Elfsborg",
-            "gender": "M",
-            "sport": {
-                "name": "Football",
-                "slug": "football",
-                "id": 1
-            },
-            "userCount": 47930,
-            "nameCode": "IFE",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1762,
-            "country": {
-                "alpha2": "SE",
-                "alpha3": "SWE",
-                "name": "Sweden",
-                "slug": "sweden",
-                "fieldTranslations": {
-                    "nameTranslation": {
-                        "ar": "السويد"
-                    },
-                    "shortNameTranslation": {}
-                }
-            },
-            "subTeams": [],
-            "teamColors": {
-                "primary": "#ffff00",
-                "secondary": "#ffff00",
-                "text": "#ffff00"
-            },
-            "fieldTranslations": {
-                "nameTranslation": {
-                    "ar": "اي اف الفسبورج",
-                    "ru": "ФК Эльфсборг",
-                    "hi": "आईएफ एल्फ्सबॉर्ग"
-                },
-                "shortNameTranslation": {}
-            }
-        },
-        "homeScore": {},
-        "awayScore": {},
-        "time": {},
-        "changes": {
-            "changeTimestamp": 0
-        },
-        "hasGlobalHighlights": false,
-        "crowdsourcingDataDisplayEnabled": false,
-        "id": 13241342,
-        "varInProgress": {
-            "homeTeam": false,
-            "awayTeam": false
-        },
-        "slug": "if-elfsborg-hammarby-if",
-        "startTimestamp": 1762686000,
-        "finalResultOnly": false,
-        "feedLocked": true,
-        "isEditor": false
+    "hasGlobalHighlights": false,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15272508,
+    "slug": "orgryte-is-hammarby-if",
+    "startTimestamp": 1788696000,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false,
+    "eventFilters": {
+      "category": [
+        "club"
+      ],
+      "level": [
+        "top-competitions",
+        "pro"
+      ],
+      "gender": [
+        "M"
+      ]
     }
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 21
+    },
+    "customId": "iKsMK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "IF Brommapojkarna",
+      "slug": "if-brommapojkarna",
+      "shortName": "Brommapojkarna",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12936,
+      "nameCode": "BP",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1787,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#cc0000",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "اي اف برومابوجكارنا",
+          "hi": "आई एफ ब्रोमापोजकरना",
+          "ru": "ИФ Броммапойкарна"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15272522,
+    "slug": "if-brommapojkarna-hammarby-if",
+    "startTimestamp": 1789300800,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 22
+    },
+    "customId": "iKshL",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Degerfors IF",
+      "slug": "degerfors-if",
+      "shortName": "Degerfors",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12609,
+      "nameCode": "DEG",
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1807,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#cc0000",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "ديجيرفورس اي اف",
+          "hi": "डीगरफोर्स आई एफ",
+          "ru": "Дегерфорс ИФ"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "awayTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "detailId": 1,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15272527,
+    "slug": "degerfors-if-hammarby-if",
+    "startTimestamp": 1789914600,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 23
+    },
+    "customId": "iKsjK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "Djurgårdens IF",
+      "slug": "djurgardens-if",
+      "shortName": "Djurgården",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 49468,
+      "nameCode": "DIF",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1759,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#33ccff",
+        "secondary": "#000099",
+        "text": "#000099"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "ديورغاردنس إف",
+          "ru": "ФК Юргорден"
+        },
+        "shortNameTranslation": {
+          "ar": "ديورغاردن",
+          "bn": "জুর্গার্ডেনস",
+          "hi": "जुर्गार्डेन"
+        }
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15272528,
+    "slug": "djurgardens-if-hammarby-if",
+    "startTimestamp": 1791720000,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 24
+    },
+    "customId": "iKsrK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Halmstads BK",
+      "slug": "halmstads-bk",
+      "shortName": "Halmstad",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12404,
+      "nameCode": "HBK",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1767,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#0066ff",
+        "secondary": "#0066ff",
+        "text": "#0066ff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هالمستادز بي كيه",
+          "ru": "ФК Хальмстад"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "awayTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15272548,
+    "slug": "halmstads-bk-hammarby-if",
+    "startTimestamp": 1792333800,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 25
+    },
+    "customId": "iKsIK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Mjällby AIF",
+      "slug": "mjallby-aif",
+      "shortName": "Mjällby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 41019,
+      "nameCode": "MAIF",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1783,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffff00",
+        "secondary": "#ffff00",
+        "text": "#ffff00"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "ميالبي إيه إف",
+          "ru": "ФК Мьельбю"
+        },
+        "shortNameTranslation": {
+          "ar": "ميالبي",
+          "ru": "Мьельбю"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15272553,
+    "slug": "mjallby-aif-hammarby-if",
+    "startTimestamp": 1792942200,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 26
+    },
+    "customId": "iKsTK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "IK Sirius",
+      "slug": "ik-sirius",
+      "shortName": "Sirius",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 34047,
+      "nameCode": "IKS",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1793,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#0066ff",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "إف كيه سيريوس",
+          "hi": "आईके सीरियस",
+          "ru": "ИК Сириус Фк"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15271588,
+    "slug": "ik-sirius-hammarby-if",
+    "startTimestamp": 1793296800,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 27
+    },
+    "customId": "iKsRM",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Malmö FF",
+      "slug": "malmo-ff",
+      "shortName": "Malmö",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 123555,
+      "nameCode": "MFF",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1892,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#0099ff",
+        "secondary": "#0099ff",
+        "text": "#0099ff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "مالمو إف إف",
+          "ru": "Мальмё"
+        },
+        "shortNameTranslation": {
+          "ar": "مالمو",
+          "bn": "মালমো",
+          "hi": "माल्मो"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15271599,
+    "slug": "malmo-ff-hammarby-if",
+    "startTimestamp": 1793538000,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 28
+    },
+    "customId": "iKsmK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "IF Elfsborg",
+      "slug": "if-elfsborg",
+      "shortName": "Elfsborg",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 40620,
+      "nameCode": "IFE",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1762,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffff00",
+        "secondary": "#ffff00",
+        "text": "#ffff00"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "اي اف الفسبورج",
+          "hi": "आईएफ एल्फ्सबॉर्ग",
+          "ru": "ФК Эльфсборг"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15271606,
+    "slug": "if-elfsborg-hammarby-if",
+    "startTimestamp": 1794135600,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 29
+    },
+    "customId": "iKslK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "IFK Göteborg",
+      "slug": "ifk-goteborg",
+      "shortName": "Göteborg",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 25473,
+      "nameCode": "GBG",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1761,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#0000cc",
+        "text": "#0000cc"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "إف كيه يوتيبورغ",
+          "ru": "ИФК Гётеборг"
+        },
+        "shortNameTranslation": {
+          "ar": "يوتيبورغ",
+          "bn": "গোটেবর্গ",
+          "hi": "गोटेबोर्ग"
+        }
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15271617,
+    "slug": "ifk-goteborg-hammarby-if",
+    "startTimestamp": 1795456800,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  },
+  {
+    "eventState": {},
+    "tournament": {
+      "name": "Allsvenskan",
+      "slug": "allsvenskan",
+      "category": {
+        "name": "Sweden",
+        "slug": "sweden",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "priority": 0,
+        "country": {
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "name": "Sweden",
+          "slug": "sweden"
+        },
+        "id": 9,
+        "flag": "sweden",
+        "alpha2": "SE",
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "السويد",
+            "ru": "Швеция"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "uniqueTournament": {
+        "name": "Allsvenskan",
+        "slug": "allsvenskan",
+        "primaryColorHex": "#d38509",
+        "secondaryColorHex": "#212759",
+        "category": {
+          "name": "Sweden",
+          "slug": "sweden",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "priority": 0,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden",
+            "slug": "sweden"
+          },
+          "id": 9,
+          "flag": "sweden",
+          "alpha2": "SE",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "السويد",
+              "ru": "Швеция"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "userCount": 32673,
+        "hasPerformanceGraphFeature": true,
+        "country": {},
+        "id": 40,
+        "hasEventPlayerStatistics": true,
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري السويدي الممتاز",
+            "bn": "অলসভেনস্কান",
+            "hi": "ऑलस्वेन्स्कन",
+            "ru": "Аллсвенскан"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 192,
+      "isGroup": false,
+      "isLive": false,
+      "id": 24,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري السويدي الممتاز",
+          "bn": "অলসভেনস্কান",
+          "hi": "ऑलस्वेन्स्कन",
+          "ru": "Аллсвенскан"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "season": {
+      "name": "Allsvenskan 2026",
+      "year": "2026",
+      "editor": false,
+      "id": 87925
+    },
+    "roundInfo": {
+      "round": 30
+    },
+    "customId": "iKsAK",
+    "status": {
+      "code": 0,
+      "description": "Not started",
+      "type": "notstarted"
+    },
+    "homeTeam": {
+      "name": "Västerås SK",
+      "slug": "vasteras-sk",
+      "shortName": "Västerås",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 14357,
+      "nameCode": "VSK",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1775,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#008348",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "فاستيروس إس كيه",
+          "ru": "Вестерос"
+        },
+        "shortNameTranslation": {
+          "ar": "فاستيروس"
+        }
+      }
+    },
+    "awayTeam": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "M",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 52111,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1758,
+      "subTeams": [],
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي إيف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "هاماربي",
+          "bn": "হ্যামারবি",
+          "hi": "हम्मार्बी"
+        }
+      }
+    },
+    "homeScore": {},
+    "awayScore": {},
+    "time": {},
+    "changes": {
+      "changeTimestamp": 0
+    },
+    "hasGlobalHighlights": false,
+    "crowdsourcingDataDisplayEnabled": false,
+    "id": 15271592,
+    "slug": "vasteras-sk-hammarby-if",
+    "startTimestamp": 1795960800,
+    "finalResultOnly": false,
+    "feedLocked": true,
+    "isEditor": false
+  }
 ]

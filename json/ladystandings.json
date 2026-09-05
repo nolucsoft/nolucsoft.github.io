@@ -1,706 +1,715 @@
 [
-        {
-          "team": {
-            "name": "BK Häcken FF",
-            "slug": "bk-hacken-ff",
-            "shortName": "BK Häcken",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 8559,
-            "nameCode": "BKH",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1889,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#ffffff",
-              "secondary": "#0000cc",
-              "text": "#0000cc"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "بي كيه هاكن إف إف"
-              },
-              "shortNameTranslation": {
-                "ar": "بي كيه هاكن"
-              }
-            }
-          },
-          "descriptions": [],
-          "promotion": {
-            "text": "Champions League Qualification",
-            "id": 24
-          },
-          "position": 1,
-          "matches": 19,
-          "wins": 14,
-          "scoresFor": 66,
-          "scoresAgainst": 17,
-          "id": 1376105,
-          "losses": 4,
-          "draws": 1,
-          "points": 43,
-          "scoreDiffFormatted": "+49"
+  {
+    "id": 2059626,
+    "team": {
+      "name": "BK Häcken FF",
+      "slug": "bk-hacken-ff",
+      "shortName": "BK Häcken",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 12133,
+      "nameCode": "BKH",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1889,
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#0000cc",
+        "text": "#0000cc"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "بي كيه هاكن إف إف",
+          "ru": "БК Хеккен"
         },
-        {
-          "team": {
-            "name": "Hammarby IF",
-            "slug": "hammarby-if",
-            "shortName": "Hammarby",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 9566,
-            "nameCode": "HAM",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1884,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#374df5",
-              "secondary": "#374df5",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "هاماربي اي اف دي إف إف",
-                "ru": "Хаммарбю",
-                "hi": "हम्मर्बी आईऍफ़"
-              },
-              "shortNameTranslation": {}
-            }
-          },
-          "descriptions": [],
-          "promotion": {
-            "text": "Champions League Qualification",
-            "id": 24
-          },
-          "position": 2,
-          "matches": 19,
-          "wins": 13,
-          "scoresFor": 49,
-          "scoresAgainst": 17,
-          "id": 1376107,
-          "losses": 3,
-          "draws": 3,
-          "points": 42,
-          "scoreDiffFormatted": "+32"
-        },
-        {
-          "team": {
-            "name": "Malmo FF",
-            "slug": "malmo-ff",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 2865,
-            "nameCode": "MAL",
-            "national": false,
-            "type": 0,
-            "id": 502806,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#374df5",
-              "secondary": "#374df5",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "مالمو إف إف"
-              },
-              "shortNameTranslation": {}
-            }
-          },
-          "descriptions": [],
-          "promotion": {
-            "text": "Champions League Qualification",
-            "id": 24
-          },
-          "position": 3,
-          "matches": 19,
-          "wins": 13,
-          "scoresFor": 42,
-          "scoresAgainst": 18,
-          "id": 1376117,
-          "losses": 3,
-          "draws": 3,
-          "points": 42,
-          "scoreDiffFormatted": "+24"
-        },
-        {
-          "team": {
-            "name": "Djurgårdens IF DFF",
-            "slug": "djurgardens-if-dff",
-            "shortName": "Djurgården",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 2788,
-            "nameCode": "DIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1878,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#33ccff",
-              "secondary": "#000099",
-              "text": "#000099"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "ديورغاردنس آي إف دي إف إف",
-                "ru": "Юргорден"
-              },
-              "shortNameTranslation": {
-                "ar": "ديورغاردن"
-              }
-            }
-          },
-          "descriptions": [],
-          "position": 4,
-          "matches": 19,
-          "wins": 11,
-          "scoresFor": 36,
-          "scoresAgainst": 27,
-          "id": 1376101,
-          "losses": 4,
-          "draws": 4,
-          "points": 37,
-          "scoreDiffFormatted": "+9"
-        },
-        {
-          "team": {
-            "name": "Kristianstads DFF",
-            "slug": "kristianstads-dff",
-            "shortName": "Kristianstad",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1979,
-            "nameCode": "KDFF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 8086,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#ff8c00",
-              "secondary": "#000000",
-              "text": "#000000"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "كريستيانستادز دي إف إف",
-                "ru": "Кристианштад Дфф"
-              },
-              "shortNameTranslation": {}
-            }
-          },
-          "descriptions": [],
-          "position": 5,
-          "matches": 20,
-          "wins": 10,
-          "scoresFor": 33,
-          "scoresAgainst": 25,
-          "id": 1376113,
-          "losses": 6,
-          "draws": 4,
-          "points": 34,
-          "scoreDiffFormatted": "+8"
-        },
-        {
-          "team": {
-            "name": "Norrköping DFK",
-            "slug": "norrkoping-dfk",
-            "shortName": "Norrköping",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1374,
-            "nameCode": "NOR",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 102033,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#374df5",
-              "secondary": "#374df5",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "نورشوبينغ دي إف كيه",
-                "ru": "Норрчёпинг"
-              },
-              "shortNameTranslation": {
-                "ar": "نورشوبينغ"
-              }
-            }
-          },
-          "descriptions": [],
-          "position": 6,
-          "matches": 20,
-          "wins": 9,
-          "scoresFor": 31,
-          "scoresAgainst": 24,
-          "id": 1376111,
-          "losses": 4,
-          "draws": 7,
-          "points": 34,
-          "scoreDiffFormatted": "+7"
-        },
-        {
-          "team": {
-            "name": "AIK",
-            "slug": "aik",
-            "shortName": "AIK",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1431,
-            "nameCode": "AIK",
-            "national": false,
-            "type": 0,
-            "id": 7388,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#374df5",
-              "secondary": "#374df5",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "إيه آي كي",
-                "ru": "АИК"
-              },
-              "shortNameTranslation": {
-                "ar": "إيه آي كي"
-              }
-            }
-          },
-          "descriptions": [],
-          "position": 7,
-          "matches": 20,
-          "wins": 9,
-          "scoresFor": 23,
-          "scoresAgainst": 30,
-          "id": 1376097,
-          "losses": 10,
-          "draws": 1,
-          "points": 28,
-          "scoreDiffFormatted": "-7"
-        },
-        {
-          "team": {
-            "name": "Vittsjö GIK",
-            "slug": "vittsjo-gik",
-            "shortName": "Vittsjö GIK",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1025,
-            "nameCode": "VIT",
-            "national": false,
-            "type": 0,
-            "id": 61572,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#ff0000",
-              "secondary": "#0000ff",
-              "text": "#0000ff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "فيتسجو جي آي كيه"
-              },
-              "shortNameTranslation": {
-                "ar": "فيتسجو جي آي كيه"
-              }
-            }
-          },
-          "descriptions": [],
-          "position": 8,
-          "matches": 19,
-          "wins": 7,
-          "scoresFor": 25,
-          "scoresAgainst": 34,
-          "id": 1376123,
-          "losses": 7,
-          "draws": 5,
-          "points": 26,
-          "scoreDiffFormatted": "-9"
-        },
-        {
-          "team": {
-            "name": "Växjö DFF",
-            "slug": "vaxjo-dff",
-            "shortName": "Växjö",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1030,
-            "nameCode": "VAX",
-            "national": false,
-            "type": 0,
-            "id": 206340,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#000000",
-              "secondary": "#065fa6",
-              "text": "#065fa6"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "فايكشو دي إف إف"
-              },
-              "shortNameTranslation": {
-                "ar": "فايكشو"
-              }
-            }
-          },
-          "descriptions": [],
-          "position": 9,
-          "matches": 19,
-          "wins": 7,
-          "scoresFor": 30,
-          "scoresAgainst": 38,
-          "id": 1376121,
-          "losses": 10,
-          "draws": 2,
-          "points": 23,
-          "scoreDiffFormatted": "-8"
-        },
-        {
-          "team": {
-            "name": "Piteå IF",
-            "slug": "pitea-if",
-            "shortName": "Piteå",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1275,
-            "nameCode": "PIF",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 32871,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#ec1c24",
-              "secondary": "#ffffff",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "بيتيå إف",
-                "ru": "Питео ИФ"
-              },
-              "shortNameTranslation": {
-                "ar": "بيتيå"
-              }
-            }
-          },
-          "descriptions": [],
-          "position": 10,
-          "matches": 19,
-          "wins": 6,
-          "scoresFor": 23,
-          "scoresAgainst": 36,
-          "id": 1376119,
-          "losses": 10,
-          "draws": 3,
-          "points": 21,
-          "scoreDiffFormatted": "-13"
-        },
-        {
-          "team": {
-            "name": "Rosengård",
-            "slug": "rosengard",
-            "shortName": "Rosengård",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 6362,
-            "nameCode": "FCR",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 1886,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#ffffff",
-              "secondary": "#ffffff",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "روزينغارد",
-                "ru": "ЛдБ ФК Мальмё"
-              },
-              "shortNameTranslation": {
-                "ar": "روزينغارد"
-              }
-            }
-          },
-          "descriptions": [],
-          "position": 11,
-          "matches": 19,
-          "wins": 5,
-          "scoresFor": 22,
-          "scoresAgainst": 31,
-          "id": 1376103,
-          "losses": 11,
-          "draws": 3,
-          "points": 18,
-          "scoreDiffFormatted": "-9"
-        },
-        {
-          "team": {
-            "name": "IF Brommapojkarna",
-            "slug": "if-brommapojkarna",
-            "shortName": "Brommapojkarna",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 722,
-            "nameCode": "BP",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 112697,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#374df5",
-              "secondary": "#374df5",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "IF بروما پويكارنا"
-              },
-              "shortNameTranslation": {}
-            }
-          },
-          "descriptions": [],
-          "promotion": {
-            "text": "Relegation Playoffs",
-            "id": 45
-          },
-          "position": 12,
-          "matches": 19,
-          "wins": 5,
-          "scoresFor": 31,
-          "scoresAgainst": 42,
-          "id": 1376109,
-          "losses": 12,
-          "draws": 2,
-          "points": 17,
-          "scoreDiffFormatted": "-11"
-        },
-        {
-          "team": {
-            "name": "Linköpings FC",
-            "slug": "linkopings-fc",
-            "shortName": "Linköping",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1884,
-            "nameCode": "LFC",
-            "national": false,
-            "type": 0,
-            "id": 7391,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#000040",
-              "secondary": "#ff5d8c",
-              "text": "#ff5d8c"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "لينكوبينغ إف سي"
-              },
-              "shortNameTranslation": {
-                "ar": "لينكوبينغ"
-              }
-            }
-          },
-          "descriptions": [],
-          "promotion": {
-            "text": "Relegation",
-            "id": 3
-          },
-          "position": 13,
-          "matches": 19,
-          "wins": 3,
-          "scoresFor": 16,
-          "scoresAgainst": 43,
-          "id": 1376115,
-          "losses": 13,
-          "draws": 3,
-          "points": 12,
-          "scoreDiffFormatted": "-27"
-        },
-        {
-          "team": {
-            "name": "Alingsås IF Fotboll",
-            "slug": "alingsas-fc-united",
-            "shortName": "Alingsås IF",
-            "gender": "F",
-            "sport": {
-              "name": "Football",
-              "slug": "football",
-              "id": 1
-            },
-            "userCount": 1013,
-            "nameCode": "ALI",
-            "disabled": false,
-            "national": false,
-            "type": 0,
-            "id": 363670,
-            "country": {
-              "alpha2": "SE",
-              "alpha3": "SWE",
-              "name": "Sweden",
-              "slug": "sweden"
-            },
-            "teamColors": {
-              "primary": "#374df5",
-              "secondary": "#374df5",
-              "text": "#ffffff"
-            },
-            "fieldTranslations": {
-              "nameTranslation": {
-                "ar": "ألينغسوس إف فوتبول"
-              },
-              "shortNameTranslation": {
-                "ar": "ألينغسوس إف"
-              }
-            }
-          },
-          "descriptions": [],
-          "promotion": {
-            "text": "Relegation",
-            "id": 3
-          },
-          "position": 14,
-          "matches": 20,
-          "wins": 2,
-          "scoresFor": 12,
-          "scoresAgainst": 57,
-          "id": 1376099,
-          "losses": 17,
-          "draws": 1,
-          "points": 7,
-          "scoreDiffFormatted": "-45"
+        "shortNameTranslation": {
+          "ar": "بي كيه هاكن",
+          "ru": "БК Хеккен"
         }
-      ]
+      }
+    },
+    "descriptions": [],
+    "promotion": {
+      "id": 24,
+      "text": "Champions League Qualification"
+    },
+    "position": 1,
+    "matches": 16,
+    "wins": 15,
+    "losses": 1,
+    "draws": 0,
+    "scoresFor": 47,
+    "scoresAgainst": 12,
+    "points": 45,
+    "scoreDiffFormatted": "+35"
+  },
+  {
+    "id": 2059628,
+    "team": {
+      "name": "Hammarby IF",
+      "slug": "hammarby-if",
+      "shortName": "Hammarby",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 13652,
+      "nameCode": "HAM",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1884,
+      "teamColors": {
+        "primary": "#374df5",
+        "secondary": "#374df5",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "هاماربي اي اف دي إف إف",
+          "hi": "हम्मर्बी आईऍफ़",
+          "ru": "Хаммарбю"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "descriptions": [],
+    "promotion": {
+      "id": 24,
+      "text": "Champions League Qualification"
+    },
+    "position": 2,
+    "matches": 17,
+    "wins": 14,
+    "losses": 1,
+    "draws": 2,
+    "scoresFor": 42,
+    "scoresAgainst": 8,
+    "points": 44,
+    "scoreDiffFormatted": "+34"
+  },
+  {
+    "id": 2059638,
+    "team": {
+      "name": "Malmo FF",
+      "slug": "malmo-ff",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 5313,
+      "nameCode": "MAL",
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 502806,
+      "teamColors": {
+        "primary": "#374df5",
+        "secondary": "#374df5",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "مالمو إف إف",
+          "ru": "Мальмё ФФ"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "descriptions": [],
+    "promotion": {
+      "id": 24,
+      "text": "Champions League Qualification"
+    },
+    "position": 3,
+    "matches": 16,
+    "wins": 8,
+    "losses": 3,
+    "draws": 5,
+    "scoresFor": 33,
+    "scoresAgainst": 10,
+    "points": 29,
+    "scoreDiffFormatted": "+23"
+  },
+  {
+    "id": 2059622,
+    "team": {
+      "name": "Eskilstuna Utd DFF",
+      "slug": "eskilstuna-utd-dff",
+      "shortName": "Eskilstuna",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 1043,
+      "nameCode": "EDFF",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 112689,
+      "teamColors": {
+        "primary": "#ff9900",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "إسكيلستونا يونايتد دي إف إف",
+          "ru": "Эскильстуна Юнайтед"
+        },
+        "shortNameTranslation": {
+          "ar": "إسكيلستونا"
+        }
+      }
+    },
+    "descriptions": [],
+    "position": 4,
+    "matches": 17,
+    "wins": 8,
+    "losses": 6,
+    "draws": 3,
+    "scoresFor": 18,
+    "scoresAgainst": 18,
+    "points": 27,
+    "scoreDiffFormatted": "0"
+  },
+  {
+    "id": 2059643,
+    "team": {
+      "name": "Vittsjö GIK",
+      "slug": "vittsjo-gik",
+      "shortName": "Vittsjö GIK",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 1604,
+      "nameCode": "VIT",
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 61572,
+      "teamColors": {
+        "primary": "#ff0000",
+        "secondary": "#0000ff",
+        "text": "#0000ff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "فيتسجو جي آي كيه",
+          "ru": "Виттсйо ГИК"
+        },
+        "shortNameTranslation": {
+          "ar": "فيتسجو جي آي كيه",
+          "ru": "ГИК"
+        }
+      }
+    },
+    "descriptions": [],
+    "position": 5,
+    "matches": 17,
+    "wins": 7,
+    "losses": 6,
+    "draws": 4,
+    "scoresFor": 22,
+    "scoresAgainst": 19,
+    "points": 25,
+    "scoreDiffFormatted": "+3"
+  },
+  {
+    "id": 2059636,
+    "team": {
+      "name": "Kristianstads DFF",
+      "slug": "kristianstads-dff",
+      "shortName": "Kristianstad",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 2423,
+      "nameCode": "KDFF",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 8086,
+      "teamColors": {
+        "primary": "#ff8c00",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "كريستيانستادز دي إف إف",
+          "ru": "Кристианштад Дфф"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "descriptions": [],
+    "position": 6,
+    "matches": 17,
+    "wins": 7,
+    "losses": 6,
+    "draws": 4,
+    "scoresFor": 28,
+    "scoresAgainst": 27,
+    "points": 25,
+    "scoreDiffFormatted": "+1"
+  },
+  {
+    "id": 2059617,
+    "team": {
+      "name": "AIK",
+      "slug": "aik",
+      "shortName": "AIK",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 2193,
+      "nameCode": "AIK",
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 7388,
+      "teamColors": {
+        "primary": "#374df5",
+        "secondary": "#374df5",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "إيه آي كي",
+          "ru": "АИК"
+        },
+        "shortNameTranslation": {
+          "ar": "إيه آي كي"
+        }
+      }
+    },
+    "descriptions": [],
+    "position": 7,
+    "matches": 17,
+    "wins": 7,
+    "losses": 6,
+    "draws": 4,
+    "scoresFor": 23,
+    "scoresAgainst": 26,
+    "points": 25,
+    "scoreDiffFormatted": "-3"
+  },
+  {
+    "id": 2059639,
+    "team": {
+      "name": "Piteå IF",
+      "slug": "pitea-if",
+      "shortName": "Piteå",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 1726,
+      "nameCode": "PIF",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 32871,
+      "teamColors": {
+        "primary": "#ec1c24",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "بيتيå إف",
+          "ru": "Питео ИФ"
+        },
+        "shortNameTranslation": {
+          "ar": "بيتيå"
+        }
+      }
+    },
+    "descriptions": [],
+    "position": 8,
+    "matches": 17,
+    "wins": 6,
+    "losses": 7,
+    "draws": 4,
+    "scoresFor": 21,
+    "scoresAgainst": 25,
+    "points": 22,
+    "scoreDiffFormatted": "-4"
+  },
+  {
+    "id": 2059630,
+    "team": {
+      "name": "IF Brommapojkarna",
+      "slug": "if-brommapojkarna",
+      "shortName": "Brommapojkarna",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 1158,
+      "nameCode": "BP",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 112697,
+      "teamColors": {
+        "primary": "#374df5",
+        "secondary": "#374df5",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "IF بروما پويكارنا",
+          "ru": "ИФ Броммапойкарна"
+        },
+        "shortNameTranslation": {
+          "ru": "Броммапойкарна"
+        }
+      }
+    },
+    "descriptions": [],
+    "position": 9,
+    "matches": 17,
+    "wins": 6,
+    "losses": 9,
+    "draws": 2,
+    "scoresFor": 22,
+    "scoresAgainst": 33,
+    "points": 20,
+    "scoreDiffFormatted": "-11"
+  },
+  {
+    "id": 2059620,
+    "team": {
+      "name": "Djurgårdens IF DFF",
+      "slug": "djurgardens-if-dff",
+      "shortName": "Djurgården",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 3149,
+      "nameCode": "DIF",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1878,
+      "teamColors": {
+        "primary": "#33ccff",
+        "secondary": "#000099",
+        "text": "#000099"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "ديورغاردنس آي إف دي إف إف",
+          "ru": "Юргорден"
+        },
+        "shortNameTranslation": {
+          "ar": "ديورغاردن"
+        }
+      }
+    },
+    "descriptions": [],
+    "position": 10,
+    "matches": 17,
+    "wins": 5,
+    "losses": 9,
+    "draws": 3,
+    "scoresFor": 21,
+    "scoresAgainst": 27,
+    "points": 18,
+    "scoreDiffFormatted": "-6"
+  },
+  {
+    "id": 2059641,
+    "team": {
+      "name": "Växjö DFF",
+      "slug": "vaxjo-dff",
+      "shortName": "Växjö",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 1727,
+      "nameCode": "VAX",
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 206340,
+      "teamColors": {
+        "primary": "#000000",
+        "secondary": "#065fa6",
+        "text": "#065fa6"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "فايكشو دي إف إف",
+          "ru": "Векшё ДФФ"
+        },
+        "shortNameTranslation": {
+          "ar": "فايكشو",
+          "ru": "Векшё"
+        }
+      }
+    },
+    "descriptions": [],
+    "position": 11,
+    "matches": 17,
+    "wins": 5,
+    "losses": 10,
+    "draws": 2,
+    "scoresFor": 21,
+    "scoresAgainst": 32,
+    "points": 17,
+    "scoreDiffFormatted": "-11"
+  },
+  {
+    "id": 2059624,
+    "team": {
+      "name": "Rosengård",
+      "slug": "rosengard",
+      "shortName": "Rosengård",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 5740,
+      "nameCode": "FCR",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 1886,
+      "teamColors": {
+        "primary": "#ffffff",
+        "secondary": "#ffffff",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "روزينغارد",
+          "ru": "ЛдБ ФК Мальмё"
+        },
+        "shortNameTranslation": {
+          "ar": "روزينغارد"
+        }
+      }
+    },
+    "descriptions": [],
+    "promotion": {
+      "id": 45,
+      "text": "Relegation Playoffs"
+    },
+    "position": 12,
+    "matches": 17,
+    "wins": 3,
+    "losses": 9,
+    "draws": 5,
+    "scoresFor": 18,
+    "scoresAgainst": 23,
+    "points": 14,
+    "scoreDiffFormatted": "-5"
+  },
+  {
+    "id": 2059632,
+    "team": {
+      "name": "Norrköping DFK",
+      "slug": "norrkoping-dfk",
+      "shortName": "Norrköping",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 1713,
+      "nameCode": "NOR",
+      "disabled": false,
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 102033,
+      "teamColors": {
+        "primary": "#374df5",
+        "secondary": "#374df5",
+        "text": "#ffffff"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "نورشوبينغ دي إف كيه",
+          "ru": "Норрчёпинг"
+        },
+        "shortNameTranslation": {
+          "ar": "نورشوبينغ"
+        }
+      }
+    },
+    "descriptions": [],
+    "promotion": {
+      "id": 3,
+      "text": "Relegation"
+    },
+    "position": 13,
+    "matches": 17,
+    "wins": 2,
+    "losses": 8,
+    "draws": 7,
+    "scoresFor": 15,
+    "scoresAgainst": 26,
+    "points": 13,
+    "scoreDiffFormatted": "-11"
+  },
+  {
+    "id": 2059634,
+    "team": {
+      "name": "IK Uppsala",
+      "slug": "ik-uppsala",
+      "gender": "F",
+      "sport": {
+        "name": "Football",
+        "slug": "football",
+        "id": 1
+      },
+      "userCount": 1509,
+      "nameCode": "UPP",
+      "national": false,
+      "type": 0,
+      "country": {
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "name": "Sweden",
+        "slug": "sweden"
+      },
+      "id": 258774,
+      "teamColors": {
+        "primary": "#e1356d",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "آي كيه أوبسالا",
+          "ru": "ИК Уппсала"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "descriptions": [],
+    "promotion": {
+      "id": 3,
+      "text": "Relegation"
+    },
+    "position": 14,
+    "matches": 17,
+    "wins": 1,
+    "losses": 13,
+    "draws": 3,
+    "scoresFor": 13,
+    "scoresAgainst": 58,
+    "points": 6,
+    "scoreDiffFormatted": "-45"
+  }
+]
